@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    background: linear-gradient(115deg, #56d8e4 10%, #9f01ea 90%)
+}
+
+input {
+    border-radius: 2rem;
+    height: 2rem;
+    width: 15rem;
+    background-color: cadetblue;
+    color: black;
+}
+
+input:hover {
+    background-color: crimson;
+}
+
+button {
+    border-radius: 2rem;
+    width: 5rem;
+    height: 2rem;
+    margin-left: 44rem;
+    background-color: darkgoldenrod;
+}
+
+button:hover {
+    background-color: crimson;
+}
+
+p {
+    text-align: center;
+}
+
+.ps {
+    font-size: 2rem;
+}
